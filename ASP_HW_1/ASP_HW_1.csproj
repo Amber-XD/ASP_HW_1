@@ -6,4 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\77eab937e341ef12109a315f6b44e0ce.jpg" />
+    <None Include="wwwroot\Images\77fe06f12cfcd17ee5968b30e209f73f.jpg" />
+    <None Include="wwwroot\Images\Games.png" />
+    <None Include="wwwroot\Images\goblin-tinker.gif" />
+  </ItemGroup>
+
 </Project>
